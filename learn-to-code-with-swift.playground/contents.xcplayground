@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playground version="6.0" target-platform="ios" requires-full-environment="false">
+    <pages>
+        <page name="Variable"/>
+        <page name="String"/>
+        <page name="Numbers"/>
+        <page name="Function"/>
+        <page name="Booleans"/>
+        <page name="Logical operators"/>
+        <page name="Array"/>
+        <page name="Loops"/>
+        <page name="Dictionaries"/>
+        <page name="Object-oriented-programming-in-swift"/>
+        <page name="Inheritance-oop-in-swift"/>
+        <page name="Polymorphism"/>
+    </pages>
+</playground>
