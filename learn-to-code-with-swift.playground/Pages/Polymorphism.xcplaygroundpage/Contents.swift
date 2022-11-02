@@ -24,4 +24,4 @@ class Rectangle: Shape {
     }
 }
 
-//: [Next](@next)
+//: [Next Variable](@next)

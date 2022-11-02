@@ -41,4 +41,4 @@ for airportName in airports.values {
 }
 
 
-//: [Next Object-oriented-programming-in-swift](@next)
+//: [Next Structures](@next)

@@ -1,4 +1,4 @@
-//: [Previous](@previous)
+//: [Previous Structures](@previous)
 
 import UIKit
 
@@ -8,17 +8,17 @@ struct Coffe {
 
 print(Coffe(name: "Cappuccino" ))
 
-//Example:
+/** Example:
 
-/// pass by  reference
+pass by  reference
 cup = "☕️"
 
 fillCup(☕️)
 
-/// pass by value
+pass by value
 cup = ""
 
-fillCup()
+fillCup(☕️) */
 
 
-//: [Next](@next)
+//: [Next Object-oriented-programming-in-swift](@next)
